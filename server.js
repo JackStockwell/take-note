@@ -24,7 +24,7 @@ app.get('/notes', (req, res) =>
 
 // GET Route for all other requests re-directed.
 app.get('*', (req, res) => 
-    res.sendFile(path.join(__dirname, '/public/index.html'))
+    res.sendFile(path.join(__dirname, '/public/404.html'))
 );
 
 app.listen(PORT, () => {
