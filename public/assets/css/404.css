@@ -1,0 +1,32 @@
+/* MAIN */
+main {
+    display: flex;
+    flex-flow: column nowrap;
+    width: 100%;
+    align-items: center;
+    text-transform: uppercase;
+    font-family: Arial, Verdana, sans-serif;  
+}
+
+/* REMOVE LINK DEFAULTS */
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* HOME BUTTON TEXT */
+main h2 {
+    text-decoration: none;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    border: 2px solid #0d6efd;
+    background-color: #0d6efd;
+    transition: background-color .3s ease;
+    transition: scale() 1s ease;
+}
+
+/* HOME BUTTON ANIMATIONS */
+main h2:hover {
+    background-color: #0a58ca;
+    transform: scale(0.95);
+}
