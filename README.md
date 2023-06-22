@@ -1,2 +1,6 @@
-# take-note
-A simple note-taking app using express!
+# Note Taker
+
+A simple note-taking app!
+
+## Description
+
