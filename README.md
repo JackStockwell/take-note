@@ -26,13 +26,15 @@ N/A
 
 ## Usage
 
-To see the web application running you can visit it [here]()
+To see the web application running you can visit it [here](https://take-note-js-197c67deb6d6.herokuapp.com/notes)
 
 ## Credits
 
 [Express documentation link](https://expressjs.com/en/guide/routing.html) - A link to the documentation regarding express.
 
 [UUID Link](https://www.npmjs.com/package/uuidv4) - A link to the npm page for uuid, used to create the unique id's used in this project.
+
+[Heroku host](https://dashboard.heroku.com/apps) - Hosted on Heroku.
 
 ## License
 
