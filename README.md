@@ -26,6 +26,8 @@ N/A
 
 ## Usage
 
+To see the web application running you can visit it [here]()
+
 ## Credits
 
 [Express documentation link](https://expressjs.com/en/guide/routing.html) - A link to the documentation regarding express.
