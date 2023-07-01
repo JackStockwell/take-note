@@ -13,6 +13,10 @@ Two of my driving reasons behind this project is to deepen my express knowledge 
 
 I learnt more about how to create routes with express, what infomation is sent when requests to websites are made and how we can manipulate that, an example is my 404 page, which uses a wildcard to re-direct anyone to who happens to enter an incorrect route.
 
+## Screenshot
+
+![Gif of the website in action](./chrome_Dwgv9OFSoE.gif)
+
 ## Table of Contents
 
 - [Installation](#installation)
